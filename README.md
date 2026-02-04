@@ -1,4 +1,5 @@
 # Sales-Performance-Dashboard
+![Sales Performance Dashboard](Overview.png)
 ## Project Overview
 This project demonstrates end-to-end data analytics using SQL and Power BI to analyze sales performance across multiple dimensions including products, customers, campaigns, and geographical locations. The analysis provides actionable insights for business decision-making and strategic planning.
 ## Tech Stack
